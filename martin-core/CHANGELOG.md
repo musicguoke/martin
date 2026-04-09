@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.3](https://github.com/maplibre/martin/compare/martin-core-v0.3.2...martin-core-v0.3.3) - 2026-04-09
+
+### Other
+
+- make sure our unit tests run under macos too ([#2648](https://github.com/maplibre/martin/pull/2648))
+- hotpath based profiling integration ([#2663](https://github.com/maplibre/martin/pull/2663))
+
 ## [0.3.2](https://github.com/maplibre/martin/compare/martin-core-v0.3.1...martin-core-v0.3.2) - 2026-04-02
 
 ### Fixed
